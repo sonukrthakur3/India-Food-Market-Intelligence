@@ -18,7 +18,7 @@ An end-to-end Power BI Business Intelligence solution built to analyze **140,000
 * **Focus:** High-level market KPIs, spatial density across Indian states, top cuisines, and value distribution.
 * **Key Visuals:** Spatial Bubble Map, Bar Chart for Top 10 Cuisines, Price vs Quality Scatter plot.
 
-![Executive Overview](images/B1.png)
+![Executive Overview](image/B1.png)
 
 ---
 
@@ -26,7 +26,7 @@ An end-to-end Power BI Business Intelligence solution built to analyze **140,000
 * **Focus:** Identifying market saturation vs. customer engagement proxies.
 * **Key Visuals:** Price vs. Quality Matrix, Pure-Veg Market Share (58% Non-Veg vs 42% Pure-Veg), Rating Bucket Distribution (54K restaurants in 4.0-4.4 bracket).
 
-![Competition Analysis](images/B2.png)
+![Competition Analysis](image/B2.png)
 
 ---
 
@@ -34,7 +34,7 @@ An end-to-end Power BI Business Intelligence solution built to analyze **140,000
 * **Focus:** Price bucket distribution and city-cuisine matrix.
 * **Key Visuals:** Cuisine x State Matrix, City Affordability Stacked Bar Chart (Budget <₹300, Mid-Range ₹300-₹800, Premium >₹800).
 
-![Price Intelligence](images/B3.png)
+![Price Intelligence](image/B3.png)
 
 ---
 
@@ -42,7 +42,7 @@ An end-to-end Power BI Business Intelligence solution built to analyze **140,000
 * **Focus:** Actionable business recommendations and location intelligence.
 * **Key Insights:** Market concentration dynamics, pricing-to-rating correlations, and target expansion quadrants.
 
-![Executive Strategy](images/B4.png)
+![Executive Strategy](image/B4.png)
 
 ---
 
