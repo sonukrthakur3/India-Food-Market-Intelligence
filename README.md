@@ -89,8 +89,8 @@ Sonu Kumar Thakur
 
 B.Tech, Computer Science and Engineering
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/sonu-thakur-978929399?)
 
-GitHub
+[GitHub](https://github.com/sonukrthakur3)
 
 Feel free to reach out for collaborations or queries regarding this dashboard!
